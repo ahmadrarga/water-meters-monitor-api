@@ -1,0 +1,17 @@
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Infrastructure.deps.json
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Infrastructure.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Infrastructure.pdb
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\refint\WaterMetersMonitor.Infrastructure.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.pdb
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\ref\WaterMetersMonitor.Infrastructure.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Infrastructure.runtimeconfig.json
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.genruntimeconfig.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Domain.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\bin\Debug\net6.0\WaterMetersMonitor.Domain.pdb
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Infrastructure\obj\Debug\net6.0\WaterMetersMonitor.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMetersMonitor.Api", "WaterMetersMonitor.Api\WaterMetersMonitor.Api.csproj", "{AC8946C5-699C-4E4A-8118-636EF87A4ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMetersMonitor.Application", "WaterMetersMonitor.Application\WaterMetersMonitor.Application.csproj", "{3160EED8-C2C1-41DF-835B-AC3BF8403106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMetersMonitor.Domain", "WaterMetersMonitor.Domain\WaterMetersMonitor.Domain.csproj", "{783C32FF-9FC3-4DA5-A2F1-2802ADE2C4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMetersMonitor.Infrastructure", "WaterMetersMonitor.Infrastructure\WaterMetersMonitor.Infrastructure.csproj", "{17BE7D1A-273F-4D7E-9618-0980530DED70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8946C5-699C-4E4A-8118-636EF87A4ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8946C5-699C-4E4A-8118-636EF87A4ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8946C5-699C-4E4A-8118-636EF87A4ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8946C5-699C-4E4A-8118-636EF87A4ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3160EED8-C2C1-41DF-835B-AC3BF8403106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3160EED8-C2C1-41DF-835B-AC3BF8403106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3160EED8-C2C1-41DF-835B-AC3BF8403106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3160EED8-C2C1-41DF-835B-AC3BF8403106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783C32FF-9FC3-4DA5-A2F1-2802ADE2C4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783C32FF-9FC3-4DA5-A2F1-2802ADE2C4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783C32FF-9FC3-4DA5-A2F1-2802ADE2C4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783C32FF-9FC3-4DA5-A2F1-2802ADE2C4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BE7D1A-273F-4D7E-9618-0980530DED70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BE7D1A-273F-4D7E-9618-0980530DED70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BE7D1A-273F-4D7E-9618-0980530DED70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BE7D1A-273F-4D7E-9618-0980530DED70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3344FA0-2300-4AE2-B816-79864811917E}
+	EndGlobalSection
+EndGlobal

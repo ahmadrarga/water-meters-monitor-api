@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nnl98h5h+yhBOw1qZ+rwNbiY1uvU9sEaaiieOjhjRNA=",
+  "Source": "WaterMetersMonitor.Api",
+  "BasePath": "_content/WaterMetersMonitor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

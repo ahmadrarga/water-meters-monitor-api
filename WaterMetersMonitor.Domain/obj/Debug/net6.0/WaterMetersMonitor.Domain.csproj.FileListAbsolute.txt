@@ -1,0 +1,14 @@
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\bin\Debug\net6.0\WaterMetersMonitor.Domain.deps.json
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\bin\Debug\net6.0\WaterMetersMonitor.Domain.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\bin\Debug\net6.0\WaterMetersMonitor.Domain.pdb
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\refint\WaterMetersMonitor.Domain.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.pdb
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\ref\WaterMetersMonitor.Domain.dll
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\bin\Debug\net6.0\WaterMetersMonitor.Domain.runtimeconfig.json
+C:\Users\Ahmad\Desktop\projects\WaterMetersMonitor\WaterMetersMonitor\WaterMetersMonitor.Domain\obj\Debug\net6.0\WaterMetersMonitor.Domain.genruntimeconfig.cache
